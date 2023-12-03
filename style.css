@@ -4,7 +4,7 @@ body {
     padding: 0;
     /* background: linear-gradient(to right, #FFD700, #022c03); */
     font-family: 'Lucida Calligraphy', sans-serif;
-background-image: url('http://localhost/image.jpeg');
+background-image: url('image.jpeg');
     font-weight: 400;
     align-items: center;
     color: #000;
